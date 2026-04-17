@@ -18,7 +18,7 @@ Ensure you have the [Rust toolchain](https://rustup.rs/) installed.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/thefoxyydev/autoclick.git](https://github.com/yourusername/autoclicker.git)
+    git clone https://github.com/TheFoxyyDev/Autoclick.git
     cd autoclicker
     ```
 
